@@ -89,6 +89,8 @@ https://fonts.google.com/
 - OtoLogic  
 https://otologic.jp/free/se/quiz01.html
 
+- SoundManagerのC#スクリプト  
+https://00m.in/Lp0Up
 
 # 機能
 #### 時限処理
