@@ -3,6 +3,8 @@
 <!-- TOC -->
 
 - [目次](#%E7%9B%AE%E6%AC%A1)
+- [操作方法](#%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95)
+  - [操作方法](#%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95-1)
 - [デモ](#%E3%83%87%E3%83%A2)
 - [開発環境](#%E9%96%8B%E7%99%BA%E7%92%B0%E5%A2%83)
 - [使用アセット](#%E4%BD%BF%E7%94%A8%E3%82%A2%E3%82%BB%E3%83%83%E3%83%88)
@@ -30,9 +32,18 @@
 
 <!-- /TOC -->
 
+# 操作方法
+#### 操作方法  
+- 通常時
+  - 画面タッチ/クリック：左右移動
+  - 自機タッチ/クリック：弾発射
+
+- ダウン時
+  - 画面タッチ/クリック：復帰カウント減少
+
 # デモ
 [爆裂ハンド](https://little-hoge.github.io/Exploding/)  
-[![キャプチャ](https://user-images.githubusercontent.com/3638785/78165330-24cbd800-7486-11ea-84f1-372421a48b1c.PNG)](https://little-hoge.github.io/Exploding/)
+[![main](https://user-images.githubusercontent.com/3638785/79036062-4c960b00-7bff-11ea-8378-8555aa1de6b2.gif)](https://little-hoge.github.io/Exploding/)
 
 # 開発環境
 - Windows10 64bit
